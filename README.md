@@ -9,18 +9,7 @@
 2. Second Step:
     If you want to run the project you have to make a new doc with name <code>.env</code>  level to (ios/android/lib) files with the following values:
 
-><code>
->API_KEY_ANDROID = "AIzaSyBX2ENiLVCbo4uRQSeu7v2p_WIFHcOydMg"<br>
->API_KEY_IOS = "AIzaSyBwmqyvYY-Yfa6F-_uDKnWwwOY1eST1HvE"<br>
->APP_ID_ANDROID = "1:247788461007:android:ed15f247adbf8942af90ba"<br>
->APP_ID_IOS = "1:247788461007:ios:e563f4c07ae7e1ecaf90ba"<br>
->MESSAGING_SENDER_ID = "247788461007"<br>
->PROJECT_ID = "just-in-play"<br>
->STORAGE_BUCKET = "just-in-play.appspot.com"<br>
->IOS_BUNDLE_ID = "com.example.justInPlayProof"<br>
->SIMKL_API_KEY="990c453f9cf2f35639954642e17a87094c>600f50e2cc99579b6a268636c29f77"<br>
-></code>
-<br>
+
 Be careful the before informacion contains critial keys.
 <br>
 <br>
