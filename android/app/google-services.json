@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247788461007",
+    "project_id": "just-in-play",
+    "storage_bucket": "just-in-play.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247788461007:android:ed15f247adbf8942af90ba",
+        "android_client_info": {
+          "package_name": "com.example.just_in_play_proof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2ENiLVCbo4uRQSeu7v2p_WIFHcOydMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
